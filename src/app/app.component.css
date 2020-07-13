@@ -1,4 +1,4 @@
-/* input.ng-invalid{
+ input.ng-invalid{
     border-left: 5px solid red;
 }
 input.ng-valid{
@@ -6,5 +6,5 @@ input.ng-valid{
 }
 input.ng-pristine{
     border-left: 1px solid darkgrey;
-} */
+} 
 
